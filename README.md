@@ -19,6 +19,8 @@ text_structure_based.py
 markdown.py
 🔹 Parses and splits Markdown documents efficiently.
 🔹 Handles heading levels and sections to keep context intact.
+
+
 python_code.py
 🔹 Designed to split Python code files intelligently.
 🔹 Maintains code block integrity and function-level chunks.
