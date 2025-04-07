@@ -15,6 +15,7 @@ text_structure_based.py
 🔹 Uses document structure (headings, paragraphs, etc.) for splitting.
 🔹 Preserves semantic integrity by splitting at logical boundaries.
 
+
 markdown.py
 🔹 Parses and splits Markdown documents efficiently.
 🔹 Handles heading levels and sections to keep context intact.
