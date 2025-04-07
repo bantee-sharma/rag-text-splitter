@@ -9,3 +9,7 @@ To experiment with text splitting strategies using Python and LangChain-style lo
 length_based.py
 🔹 Implements Length-based Splitter, which breaks text into chunks based on character or token length.
 🔹 Helps in handling context limits of LLMs.
+
+text_structure_based.py
+🔹 Uses document structure (headings, paragraphs, etc.) for splitting.
+🔹 Preserves semantic integrity by splitting at logical boundaries.
