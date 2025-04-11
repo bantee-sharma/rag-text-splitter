@@ -3,6 +3,7 @@
 
 
 **✅ Purpose of the Repo**
+
 To experiment with text splitting strategies using Python and LangChain-style logic, helping to chunk long documents into manageable pieces while preserving semantic meaning.
 
 🗂️ Key Files & What I Learned
